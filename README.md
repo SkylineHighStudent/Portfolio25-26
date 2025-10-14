@@ -6,7 +6,7 @@
 
 Detailed Description
 
-![RunningCalculator]()
+![RunningCalculator](calc.png)
 
 * [Windows]()
 * [MacOS]()
