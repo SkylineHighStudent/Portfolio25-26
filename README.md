@@ -11,3 +11,5 @@ This calculator is a custom-built graphical interface created using Processing t
 * [Windows](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/src/calculator/macos-calc.zip)
 * [MacOS](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/src/calculator/windows-calc.zip)
 * [SourceCode]()
+
+#### Digipets (2025)
