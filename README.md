@@ -13,3 +13,7 @@ This calculator is a custom-built graphical interface created using Processing t
 * [SourceCode]()
 
 #### Digipets (2025)
+
+![DigipetsLogo](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/DigipetsLogoGUI.png?raw=true)
+![DigipetsMockup](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/GUImockup.png?raw=true)
+![InGameGUI](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/DigipetsGUI.png?raw=true)
