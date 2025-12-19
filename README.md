@@ -26,4 +26,4 @@ The code is modular, with separate classes handling UI buttons, animations (bubb
 ![DigipetsMockup](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/GUImockup.png?raw=true)
 ![InGameGUI](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/DigipetsGUI.png?raw=true)
 
-* Github(https://github.com/jamromney/Group-1)
+* [Github](https://github.com/jamromney/Group-1)
