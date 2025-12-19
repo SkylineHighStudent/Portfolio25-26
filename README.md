@@ -25,3 +25,5 @@ The pet’s well-being is tracked using Meter objects (mood, hunger, cleanliness
 The code is modular, with separate classes handling UI buttons, animations (bubbles and Zzzs), draggable waste, toys, and the pet itself. Mouse input is used extensively for dragging objects, clicking buttons, and triggering interactions. Overall, the project demonstrates a complete small game architecture in Processing, combining animation, state management, user input, and timed gameplay mechanics into a cohesive virtual pet experience.
 ![DigipetsMockup](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/GUImockup.png?raw=true)
 ![InGameGUI](https://github.com/SkylineHighStudent/Portfolio25-26/blob/main/images/DigipetsGUI.png?raw=true)
+
+* Github(https://github.com/jamromney/Group-1)
